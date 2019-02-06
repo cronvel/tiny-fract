@@ -1,0 +1,9 @@
+
+type: segment
+iteration:
+	-	x: $= 1 / 3
+		y: 0
+	-	x: 0.5
+		y: $= 1 / 6
+	-	x: $= 2 / 3
+		y: 0
