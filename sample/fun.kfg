@@ -1,5 +1,5 @@
 
-type: segment
+type: points
 starting:
 	-	x: 0
 		y: 0

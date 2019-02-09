@@ -13,9 +13,9 @@
     "svg-fract": "./bin/svg-fract"
   },
   "dependencies": {
-    "kung-fig": "^0.47.6",
-    "math-kit": "^0.12.0",
-    "svg-kit": "^0.1.20",
+    "kung-fig": "^0.50.0",
+    "math-kit": "^0.12.1",
+    "svg-kit": "^0.1.21",
     "utterminal": "^0.5.29"
   },
   "devDependencies": {},
