@@ -1,5 +1,5 @@
 /*
-	SVG Fract
+	Tiny Fract
 
 	Copyright (c) 2019 Cédric Ronvel
 

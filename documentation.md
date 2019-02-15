@@ -1,7 +1,7 @@
 
 
-# SVG Fract
+# Tiny Fract
 
-SVG Fractales.
+A tiny SVG and raster fractal program, made just for fun.
 
 Early alpha.

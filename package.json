@@ -1,16 +1,16 @@
 {
-  "name": "svg-fract",
+  "name": "tiny-fract",
   "version": "0.0.0",
   "engines": {
     "node": ">=10.0.0"
   },
-  "description": "SVG fractales",
-  "main": "lib/SvgFract.js",
+  "description": "A tiny SVG and raster fractal program, made just for fun.",
+  "main": "lib/tiny-fract.js",
   "directories": {
     "test": "test"
   },
   "bin": {
-    "svg-fract": "./bin/svg-fract"
+    "tiny-fract": "./bin/tiny-fract"
   },
   "dependencies": {
     "kung-fig": "^0.50.0",
@@ -24,16 +24,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cronvel/svg-fract.git"
+    "url": "https://github.com/cronvel/tiny-fract.git"
   },
   "keywords": [
     "svg",
-    "fractale"
+    "fractal"
   ],
   "author": "Cédric Ronvel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cronvel/svg-fract/issues"
+    "url": "https://github.com/cronvel/tiny-fract/issues"
   },
   "config": {
     "tea-time": {
@@ -43,7 +43,7 @@
     }
   },
   "copyright": {
-    "title": "SVG Fract",
+    "title": "Tiny Fract",
     "years": [
       2019
     ],
