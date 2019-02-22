@@ -1,3 +1,12 @@
 
 type: pixelconv
-iteration: $= $z ^ 2 + $c
+palette: @@palette.kfg
+resize-palette: 20
+
+radius: 1
+origin:
+	re: -1
+	im: 0
+
+iteration: $= zadd( zmul( $z , $z ) , $c )
+bailout: $= ( zsqnorm( $z ) ) >= 4
