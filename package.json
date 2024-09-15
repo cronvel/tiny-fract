@@ -2,7 +2,7 @@
   "name": "tiny-fract",
   "version": "0.0.0",
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=16.13.0"
   },
   "description": "A tiny SVG and raster fractal program, made just for fun.",
   "main": "lib/tiny-fract.js",
@@ -13,14 +13,13 @@
     "tiny-fract": "./bin/tiny-fract"
   },
   "dependencies": {
-    "kung-fig": "^0.50.2",
-    "math-kit": "^0.12.4",
+    "kung-fig": "^0.67.3",
+    "math-kit": "^0.16.25",
     "ndarray": "^1.0.18",
-    "pngjs": "^3.3.3",
-    "svg-kit": "^0.1.21",
-    "utterminal": "^0.5.29"
+    "pngjs": "^7.0.0",
+    "svg-kit": "^0.7.0",
+    "utterminal": "^0.7.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tea-time -R dot"
   },
